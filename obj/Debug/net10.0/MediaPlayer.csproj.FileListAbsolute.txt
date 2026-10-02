@@ -1,0 +1,14 @@
+/Users/albinaisaeva/MediaPlayer/obj/Debug/net10.0/MediaPlayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/albinaisaeva/MediaPlayer/obj/Debug/net10.0/MediaPlayer.AssemblyInfoInputs.cache
+/Users/albinaisaeva/MediaPlayer/obj/Debug/net10.0/MediaPlayer.AssemblyInfo.cs
+/Users/albinaisaeva/MediaPlayer/obj/Debug/net10.0/MediaPlayer.csproj.CoreCompileInputs.cache
+/Users/albinaisaeva/MediaPlayer/bin/Debug/net10.0/MediaPlayer
+/Users/albinaisaeva/MediaPlayer/bin/Debug/net10.0/MediaPlayer.deps.json
+/Users/albinaisaeva/MediaPlayer/bin/Debug/net10.0/MediaPlayer.runtimeconfig.json
+/Users/albinaisaeva/MediaPlayer/bin/Debug/net10.0/MediaPlayer.dll
+/Users/albinaisaeva/MediaPlayer/bin/Debug/net10.0/MediaPlayer.pdb
+/Users/albinaisaeva/MediaPlayer/obj/Debug/net10.0/MediaPlayer.dll
+/Users/albinaisaeva/MediaPlayer/obj/Debug/net10.0/refint/MediaPlayer.dll
+/Users/albinaisaeva/MediaPlayer/obj/Debug/net10.0/MediaPlayer.pdb
+/Users/albinaisaeva/MediaPlayer/obj/Debug/net10.0/MediaPlayer.genruntimeconfig.cache
+/Users/albinaisaeva/MediaPlayer/obj/Debug/net10.0/ref/MediaPlayer.dll
